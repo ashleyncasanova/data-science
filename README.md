@@ -8,28 +8,27 @@ ___
     - [Data Science is...](#data-science-is)
     - [Why Choose Data Science?](#why-choose-data-science)
     - [The Data Science Venn Diagram](the-data-science-venn-diagram)
+    - [The Data Science Pathway](#the-data-science-pathway)
+    - [Roles in Data Science](#roles-in-data-science)
 
-[Body](#body)
+[Resources](#resources)
 ___
 ## **Introduction**
 ___
 ### **Defining Data Science**
-
-
+___
 #### **Data Science is...**
 - Coding, math and statistics in applied setting.
 - The analysis of diverse data.
 - Inclusive analysis.
-
-
+___
 #### **Why Choose Data Science?**
 - Posesses _rare qualities_.
     - Assigns order, meaning and value to unstructured data.
 - Is in _high demand_.
     - Provides insight and competative advantage.
-
-
-#### [**The Data Science Venn Diagram**](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
+___
+#### **The Data Science Venn Diagram**
 
 \
 <img src="https://images.squarespace-cdn.com/content/v1/5150aec6e4b0e340ec52710a/1364352051365-HZAS3CLBF7ABLE3F5OBY/Data_Science_VD.png?format=1500w" alt="The Data Science Venn Diagram" width="250" height="250">
@@ -95,9 +94,8 @@ Substanitive Expertise
 - Data Science is made up of several fields
 - Diverse skills and backgrounds are needed
 - Many rolls are involved 
-
-\
-**The Data Science Pathway**
+___
+#### **The Data Science Pathway**
 1. Planning
     - Define Goals
     - Organize Resources
@@ -118,8 +116,51 @@ Substanitive Expertise
     - Deploy Model
     - Revisit Model
     - Archive Assets
-\
-**Roles in Data Science**
-
 ___
-### Body
+#### **Roles in Data Science**
+
+\
+Engineer
+- Focus on back end hardware, software.
+- Makes DS possible.
+- Software developer, DBA (data base administrator)
+
+\
+Big Data Specialist
+- Focus on computer science & math.
+- _Machine learning_ algorithms as a way of proccessing large amounts of data.
+- Create _data products_ (e.g. the thing that tells you to what restaurant to go to, or says "you might know these friends", or provides ways of linking up photos).
+
+\
+Researcher
+- Focus on domain specific research (e.g. physics or genetics)
+- Usually have strong math and statistics skills.
+- Can use data from others (such as big data specialists) to solve specific problems.
+
+\
+Analyst
+- Day-to-day task
+- _Web analytics_ (e.g. google analytics), pull data from _SQL_ database
+- Good for business
+- Work with structured data
+
+\
+Business
+- Frame business relivant questions
+- Manages projects
+- Must "speak data"
+
+\
+Entrepreneur
+- Data startups (e.g. social network, web search platform, etc.)
+- Needs data & business skills.
+- Creative throughout.
+
+\
+Full-Stack "Unicorn"
+- Can do it all
+- Doesn't exist
+___
+### **Resources**
+1. [Learn Data Science Tutorial](https://www.youtube.com/watch?v=ua-CiDNNj30&list=PLziKjNNc0urKZYycv59uk3TLlOSiTcr1p&index=1)
+1. [The Data Science Venn Diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
