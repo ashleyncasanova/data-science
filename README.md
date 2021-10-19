@@ -10,7 +10,9 @@ ___
     - [The Data Science Venn Diagram](the-data-science-venn-diagram)
     - [The Data Science Pathway](#the-data-science-pathway)
     - [Roles in Data Science](#roles-in-data-science)
-    - [Teams in Data Science](#teams-in-data-science)
+    - [Big Data](#big-data)
+    - [Business Intelligence](#business-intelligence)
+    - [Ethics](#ethics)
 
 
 [Resources](#resources)
@@ -164,10 +166,66 @@ Full-Stack "Unicorn"
 - Can do it all
 - Doesn't exist
 ___
-#### **Teams in Data Science**
+#### **Big Data**
+
+#### **The Data Science Venn Diagram**
 
 \
+<img src="https://lh3.googleusercontent.com/proxy/XWiZv74oVOP4LpMftXE_4r8GymM7--xM_o9IXpYpkiSxqd9G2sLT1s7SoXFw4YpXwobGC-QOhAKdUjLeOJXAUrlWxO2YkIROMNHhh4Y0CxZwX4IfnmDzFCbYcZkKppymHtLwbsri" alt="The Big Data Venn Diagram" width="250" height="250">
 
+\
+**The 3 Vs of Big Data:**
+
+- High _volume_ of data
+- Rapid _velocity_ of data
+- Extreme _variety_ of data
+
+\
+**Big Data and Data Science**
+
+\
+<img src="https://i.pinimg.com/originals/cc/ab/d0/ccabd09b6d2662ce8d6add971ec2ebbb.png" alt="The Big Data Venn Diagram" width="" height="250">
+
+
+
+|Big Data (w/o DS)|Big Data Science|Data Science (w/o BD)|
+|---|---|---|
+|Not all Vs|Volume, Velocity & Variety|Only one V|
+|Need at least two DS skills (usually Coding & Math)|Coding, Math, & Domain Expertise|Coding, Math, & Domain Expertise|
+|Machine learning (large data sets, no domain expertise)||Genetics data (_volume_; large data set, highly structured)|
+|Word counts (large data sets, little math skills, no domain expertise)||Streaming sensor data (_velocity_; monitoring a lot of data in real time without saving it)|
+|||Facial recognition (enormous _variety_ in data)
+||||
+___
+#### **Business Intelligence**
+- Data in internal operations, market, competitors, etc.
+- Goal is to make justifiable decisions.
+- No coding.
+- Simple Statistics
+- Focus on domain expertise & utility.
+- Data dashboards 
+
+**How is data science related?**
+- Identify data sources & set up framework.
+- Help get past easy questions & easy data.
+- DS can learn design from good BI.
+___
+#### **Ethics**
+
+\
+Privacy
+- confidentiality
+- Shouldn't share
+- Sourced not intended for sharing?
+
+Anonymity
+- Not hard to identify
+- HIPPA (Health Insurance Portability and Accountability Act)
+- Proprietary data may have identifiers
+
+Copyright
+- Scraping data is common & useful
+- Web pages, PDF's, images, audio, etc.
 ___
 ### **Resources**
 1. [Learn Data Science Tutorial](https://www.youtube.com/watch?v=ua-CiDNNj30&list=PLziKjNNc0urKZYycv59uk3TLlOSiTcr1p&index=1)
