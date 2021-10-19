@@ -10,6 +10,8 @@ ___
     - [The Data Science Venn Diagram](the-data-science-venn-diagram)
     - [The Data Science Pathway](#the-data-science-pathway)
     - [Roles in Data Science](#roles-in-data-science)
+    - [Teams in Data Science](#teams-in-data-science)
+
 
 [Resources](#resources)
 ___
@@ -96,6 +98,7 @@ Substanitive Expertise
 - Many rolls are involved 
 ___
 #### **The Data Science Pathway**
+
 1. Planning
     - Define Goals
     - Organize Resources
@@ -160,6 +163,11 @@ Entrepreneur
 Full-Stack "Unicorn"
 - Can do it all
 - Doesn't exist
+___
+#### **Teams in Data Science**
+
+\
+
 ___
 ### **Resources**
 1. [Learn Data Science Tutorial](https://www.youtube.com/watch?v=ua-CiDNNj30&list=PLziKjNNc0urKZYycv59uk3TLlOSiTcr1p&index=1)
