@@ -214,18 +214,30 @@ ___
 
 \
 Privacy
-- confidentiality
-- Shouldn't share
+- Confidentiality.
+- Shouldn't share.
 - Sourced not intended for sharing?
 
 Anonymity
-- Not hard to identify
-- HIPPA (Health Insurance Portability and Accountability Act)
-- Proprietary data may have identifiers
+- Not hard to identify.
+- HIPPA (Health Insurance Portability and Accountability Act).
+- Proprietary data may have identifiers.
 
 Copyright
-- Scraping data is common & useful
+- Scraping data is common & useful.
 - Web pages, PDF's, images, audio, etc.
+- Check copyright.
+
+Data Security
+- Beware of hackers.
+- Especially if data is not anonymous / has identifiers.
+- Additional burden to secure data.
+
+Potential Bias
+- Algorithms are only as neutral as the rules & data that they get.
+
+Overconfidence
+- Analyses are limited simplifications; still need humans in the loop.
 ___
 ### **Resources**
 1. [Learn Data Science Tutorial](https://www.youtube.com/watch?v=ua-CiDNNj30&list=PLziKjNNc0urKZYycv59uk3TLlOSiTcr1p&index=1)
