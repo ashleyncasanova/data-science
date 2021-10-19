@@ -13,6 +13,7 @@ ___
     - [Big Data](#big-data)
     - [Business Intelligence](#business-intelligence)
     - [Ethics](#ethics)
+    - [Methods](#methods)
 
 
 [Resources](#resources)
@@ -238,6 +239,51 @@ Potential Bias
 
 Overconfidence
 - Analyses are limited simplifications; still need humans in the loop.
+___
+#### **Methods**
+
+\
+Sourcing
+- How to get the data?
+
+    - Use existing data
+        - In-house data (e.g. company records)
+        - Open data (e.g. publically available data from governments or scientific organizations)
+        - Third party data (usually purchased from a third party vendor)
+    - Use data APIs (Application programing interface)
+        - Allow apps to communicate directly.
+        - Most common way to get web data.
+        - Can import data directly into whatever program or application you are using.
+    - Scrape web data
+        - For web data without APIs.
+        - Usually in HTML web tables, PDFs, etc.
+        - Can use specialized applications for web scraping or programing languages like R or Python.
+    - Make data
+        - Get exactly what you need.
+        - Interviews.
+        - Surveys.
+        - Experiments. 
+- Quality of data matters.
+    - GIGO "Garbage In, Garbage Out"
+    - If you are feeding bad data into your system, you are not going to get anything worth while.
+- Pay attention to metrics or methods for measuring & meaning.
+    - Business metrics.
+    - KPIs (Key Performance Indicators).
+    - SMART goals (way of describing the goals that are actionable and timely).
+    - Classification accuracy.
+
+Coding
+- Computer programing to obtain, manipulate, & analyze data.
+
+
+Math
+- The math behind DS methods.
+
+Stats
+- Statistical methods to summarize & analyze data.
+
+Machine Learning
+- Methods for finding clusters, predicting categories & scores.
 ___
 ### **Resources**
 1. [Learn Data Science Tutorial](https://www.youtube.com/watch?v=ua-CiDNNj30&list=PLziKjNNc0urKZYycv59uk3TLlOSiTcr1p&index=1)
