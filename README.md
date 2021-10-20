@@ -319,6 +319,27 @@ ___
 
 **Stats**
 - Statistical methods to summarize & analyze data.
+- How to find order in chaos.
+    - Explore Data
+        - Exploratory graphics
+        - Exploratory statistics
+        - Descriptive statistics
+    - Inference
+        - From samples to populations
+        - Hypothesis testing
+        - Estimations (or confidence intervals)
+    - Details
+        - Feature selection
+            - picking variables that should be included
+        - Problems can arise
+            - will address later
+        - Validation
+            - is statistical model accurate
+        - Estimators
+            - choice of estimators you use
+            - how you get the coefficients or combinations in your model
+        - Fit
+            - ways of assessing how well your model fits the data
 
 **Machine Learning**
 - Methods for finding clusters, predicting categories & scores.
