@@ -14,6 +14,7 @@ ___
     - [Business Intelligence](#business-intelligence)
     - [Ethics](#ethics)
     - [Methods](#methods)
+    - [Communicating](#communicating)
 
 
 [Resources](#resources)
@@ -343,6 +344,23 @@ ___
 
 **Machine Learning**
 - Methods for finding clusters, predicting categories & scores.
+- Dimension reduction
+    - narrow down large, scattered data det to most essential parts
+- Clustering
+    - find clusters within data using:
+        - logistic regession
+        - kNN (k-nearest neighbors)
+        - Naive Bayes (for classification)
+        - Decision trees
+        - SVM (support vector machines)
+        - Artificial neural nets
+        - k-Means
+- Anomalies
+- Predictions
+    - linear regression
+    - poisson regression (used for modeling count or frequency data)
+    - ensemble models (create several models, take predictions from each and combine into a more reliable prediction)
+
 ___
 ### **Resources**
 1. [Learn Data Science Tutorial](https://www.youtube.com/watch?v=ua-CiDNNj30&list=PLziKjNNc0urKZYycv59uk3TLlOSiTcr1p&index=1)
