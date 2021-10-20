@@ -199,6 +199,9 @@ ___
 ||||
 ___
 #### **Business Intelligence**
+
+\
+**What is Business Intelligence?**
 - Data in internal operations, market, competitors, etc.
 - Goal is to make justifiable decisions.
 - No coding.
@@ -245,24 +248,23 @@ ___
 \
 **Sourcing**
 - How to get the data?
-
-    - Use existing data
+    - Use _existing data_
         - In-house data (e.g. company records)
         - Open data (e.g. publically available data from governments or scientific organizations)
         - Third party data (usually purchased from a third party vendor)
-    - Use data APIs (Application programing interface)
+    - Use data _APIs_ (Application programing interface)
         - Allow apps to communicate directly.
         - Most common way to get web data.
         - Can import data directly into whatever program or application you are using.
-    - Scrape web data
+    - _Scrape_ web data
         - For web data without APIs.
         - Usually in HTML web tables, PDFs, etc.
         - Can use specialized applications for web scraping or programing languages like R or Python.
-    - Make data
+    - _Make data_
         - Get exactly what you need.
         - Interviews.
         - Surveys.
-        - Experiments. 
+        - Experiments.
 - Quality of data matters.
     - GIGO "Garbage In, Garbage Out"
     - If you are feeding bad data into your system, you are not going to get anything worth while.
@@ -296,11 +298,24 @@ ___
         - SQL
         - C, C++, & Java (back-end)
         - Bash (most common command line interface)
-        - Regex (Regular expressions_)
+        - Regex (Regular expressions)
 
 **Math**
 - The math behind DS methods.
-
+- Why do we need math?
+    - Need to know which procedures to use and why?
+    - Need to know when things don't work right.
+    - Some math is easier & quicker by hand than computer.
+- What kind of math do we need?
+    - Algebra
+        - Elementary Algebra
+        - Linear (matrix) algebra
+        - Systems of linear equations
+    - More Math
+        - Calculus
+        - Big O (order of a function / how fast it works)
+        - Probability
+        - Baye's theorem (way of getting posterior probability)
 
 **Stats**
 - Statistical methods to summarize & analyze data.
