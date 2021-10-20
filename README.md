@@ -243,7 +243,7 @@ ___
 #### **Methods**
 
 \
-Sourcing
+**Sourcing**
 - How to get the data?
 
     - Use existing data
@@ -272,17 +272,40 @@ Sourcing
     - SMART goals (way of describing the goals that are actionable and timely).
     - Classification accuracy.
 
-Coding
+**Coding**
 - Computer programing to obtain, manipulate, & analyze data.
+- Apps
+    - Specialixed apps for working with data.
+        - Spreadsheets
+            - Excel
+            - Google sheets
+        - Specialized applications for data visualization.
+            - Tableau
+        - Statistical packages
+            - SPSS (used in social science / business)
+            - JASP (free, open source, easy to use)
+- Data
+    - Special formats for web data.
+        - HTML
+        - XML
+        - JSON
+- Code
+    - Languages that give you full control.
+        - R
+        - Python
+        - SQL
+        - C, C++, & Java (back-end)
+        - Bash (most common command line interface)
+        - Regex (Regular expressions_)
 
-
-Math
+**Math**
 - The math behind DS methods.
 
-Stats
+
+**Stats**
 - Statistical methods to summarize & analyze data.
 
-Machine Learning
+**Machine Learning**
 - Methods for finding clusters, predicting categories & scores.
 ___
 ### **Resources**
