@@ -275,6 +275,7 @@ ___
     - SMART goals (way of describing the goals that are actionable and timely).
     - Classification accuracy.
 
+\
 **Coding**
 - Computer programing to obtain, manipulate, & analyze data.
 - Apps
@@ -363,7 +364,6 @@ ___
 ___
 #### **Comminicating**
 
-\
 **Interpretability**
 - Data driven story
 - Solve for value
