@@ -430,6 +430,16 @@ ___
     - Be specific.
     - Doable by client.
     - Build on each step.
+- Correlation vs Causation
+    - Your data gives you correlation.
+    - Client wants causation.
+- How to get from correlation to causation?
+    - Experimental studies.
+        - Randomized, controlled trials are simplest path to causality.
+    - Quasi-experiments.
+        - Methods that use non-randomized data for causal inference.
+    - Theory & experience.
+        - Research 
 
 ___
 ### **Resources**
