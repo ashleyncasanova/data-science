@@ -363,17 +363,20 @@ ___
 ___
 #### **Comminicating**
 
+\
 **Interpretability**
 - Data driven story
 - Solve for value
     - Analysis x Story = Value
     - Max Story = Max Value
 
+\
 **Goals**
 - Analysis is goal-driven
 - Story should match goals
 - Answer questions clearly & unambiguously
 
+\
 **Psychological Abstractions**
 - Egocentrism
     - you think people see, and know and understand what you do
@@ -383,6 +386,7 @@ ___
     - when you give someone an initial impression, they use that as an anchor
 - Clarity at each step
 
+\
 **Answers**
 - State the question
 - Give answer
@@ -390,15 +394,16 @@ ___
 - Go in order
 - Discuss process sparingly
 
- **Presentation**
+\
+**Presentation**
  - Less is more
  - More charts, less text
  - Simplify charts
  - Avoid tables
 
+\
 **Simpsons Paradox**
 
-\
 <img src="https://www.kdnuggets.com/wp-content/uploads/Fig1-Walaa-simpsons-paradox.jpg" alt="Simpsons Paradox" width="" height="250">
 
 \
@@ -408,15 +413,14 @@ ___
 - **Admittance by Department:**
     - Found possible bias in favor of women.
     - Women applied to more selective programs.
-
-**Other Questions you could ask:**
-- Why do the programs vary by class size?
-- Why do acceptance rates differ?
-- Why do men and women apply to different programs?
-    - Admissions criteria.
-    - Promotional strategies.
-    - Prior education.
-    - Funding levels.
+- **Other Questions you could ask:**
+    - Why do the programs vary by class size?
+    - Why do acceptance rates differ?
+    - Why do men and women apply to different programs?
+        - Admissions criteria.
+        - Promotional strategies.
+        - Prior education.
+        - Funding levels.
 
 \
 **Actionable Insights**
@@ -439,9 +443,103 @@ ___
     - Quasi-experiments.
         - Methods that use non-randomized data for causal inference.
     - Theory & experience.
-        - Research 
+        - Research based theory & domain-specific experience.
+- Social factors that can affect data.
+    - Make sure recomendations are consistent with:
+        - Clients mission.
+        - Cliens identity.
+        - Business context.
+            - Competative / regulatory environment.
+        - Social context.
+            - Outside & within organization.
+
+\
+**Presentation Graphics**
+- Exploratory Graphics
+    - Used by and for the analyst to understand data.
+    - Need speed & responsiveness.
+- Presentation Graphics.
+    - For benefit of client.
+    - Provide clarity & naritive flow.
+- Clarity vs Distraction.
+    - Colors.
+    - 3D.
+    - Interaction.
+    - Animation.
 
 ___
 ### **Resources**
 1. [Learn Data Science Tutorial](https://www.youtube.com/watch?v=ua-CiDNNj30&list=PLziKjNNc0urKZYycv59uk3TLlOSiTcr1p&index=1)
 1. [The Data Science Venn Diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
