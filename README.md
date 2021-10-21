@@ -489,7 +489,7 @@ ___
     - [Open Practice Badges](https://www.psychologicalscience.org/publications/badges)
         - Association for Psychological Sciences (APS)
         - Incentive program that encourages data sharing.
-- Archives.
+- Archives
 ___
 ### **Resources**
 1. [Learn Data Science Tutorial](https://www.youtube.com/watch?v=ua-CiDNNj30&list=PLziKjNNc0urKZYycv59uk3TLlOSiTcr1p&index=1)
