@@ -10,7 +10,11 @@ ___
     - [The Data Science Venn Diagram](the-data-science-venn-diagram)
     - [The Data Science Pathway](#the-data-science-pathway)
     - [Roles in Data Science](#roles-in-data-science)
-    - [Teams in Data Science](#teams-in-data-science)
+    - [Big Data](#big-data)
+    - [Business Intelligence](#business-intelligence)
+    - [Ethics](#ethics)
+    - [Methods](#methods)
+    - [Communicating](#communicating)
 
 
 [Resources](#resources)
@@ -164,9 +168,206 @@ Full-Stack "Unicorn"
 - Can do it all
 - Doesn't exist
 ___
-#### **Teams in Data Science**
+#### **Big Data**
+
+#### **The Data Science Venn Diagram**
 
 \
+<img src="https://lh3.googleusercontent.com/proxy/XWiZv74oVOP4LpMftXE_4r8GymM7--xM_o9IXpYpkiSxqd9G2sLT1s7SoXFw4YpXwobGC-QOhAKdUjLeOJXAUrlWxO2YkIROMNHhh4Y0CxZwX4IfnmDzFCbYcZkKppymHtLwbsri" alt="The Big Data Venn Diagram" width="250" height="250">
+
+\
+**The 3 Vs of Big Data:**
+
+- High _volume_ of data
+- Rapid _velocity_ of data
+- Extreme _variety_ of data
+
+\
+**Big Data and Data Science**
+
+\
+<img src="https://i.pinimg.com/originals/cc/ab/d0/ccabd09b6d2662ce8d6add971ec2ebbb.png" alt="The Big Data Venn Diagram" width="" height="250">
+
+
+
+|Big Data (w/o DS)|Big Data Science|Data Science (w/o BD)|
+|---|---|---|
+|Not all Vs|Volume, Velocity & Variety|Only one V|
+|Need at least two DS skills (usually Coding & Math)|Coding, Math, & Domain Expertise|Coding, Math, & Domain Expertise|
+|Machine learning (large data sets, no domain expertise)||Genetics data (_volume_; large data set, highly structured)|
+|Word counts (large data sets, little math skills, no domain expertise)||Streaming sensor data (_velocity_; monitoring a lot of data in real time without saving it)|
+|||Facial recognition (enormous _variety_ in data)
+||||
+___
+#### **Business Intelligence**
+
+\
+**What is Business Intelligence?**
+- Data in internal operations, market, competitors, etc.
+- Goal is to make justifiable decisions.
+- No coding.
+- Simple Statistics
+- Focus on domain expertise & utility.
+- Data dashboards 
+
+**How is data science related?**
+- Identify data sources & set up framework.
+- Help get past easy questions & easy data.
+- DS can learn design from good BI.
+___
+#### **Ethics**
+
+\
+Privacy
+- Confidentiality.
+- Shouldn't share.
+- Sourced not intended for sharing?
+
+Anonymity
+- Not hard to identify.
+- HIPPA (Health Insurance Portability and Accountability Act).
+- Proprietary data may have identifiers.
+
+Copyright
+- Scraping data is common & useful.
+- Web pages, PDF's, images, audio, etc.
+- Check copyright.
+
+Data Security
+- Beware of hackers.
+- Especially if data is not anonymous / has identifiers.
+- Additional burden to secure data.
+
+Potential Bias
+- Algorithms are only as neutral as the rules & data that they get.
+
+Overconfidence
+- Analyses are limited simplifications; still need humans in the loop.
+___
+#### **Methods**
+
+\
+**Sourcing**
+- How to get the data?
+    - Use _existing data_
+        - In-house data (e.g. company records)
+        - Open data (e.g. publically available data from governments or scientific organizations)
+        - Third party data (usually purchased from a third party vendor)
+    - Use data _APIs_ (Application programing interface)
+        - Allow apps to communicate directly.
+        - Most common way to get web data.
+        - Can import data directly into whatever program or application you are using.
+    - _Scrape_ web data
+        - For web data without APIs.
+        - Usually in HTML web tables, PDFs, etc.
+        - Can use specialized applications for web scraping or programing languages like R or Python.
+    - _Make data_
+        - Get exactly what you need.
+        - Interviews.
+        - Surveys.
+        - Experiments.
+- Quality of data matters.
+    - GIGO "Garbage In, Garbage Out"
+    - If you are feeding bad data into your system, you are not going to get anything worth while.
+- Pay attention to metrics or methods for measuring & meaning.
+    - Business metrics.
+    - KPIs (Key Performance Indicators).
+    - SMART goals (way of describing the goals that are actionable and timely).
+    - Classification accuracy.
+
+**Coding**
+- Computer programing to obtain, manipulate, & analyze data.
+- Apps
+    - Specialixed apps for working with data.
+        - Spreadsheets
+            - Excel
+            - Google sheets
+        - Specialized applications for data visualization.
+            - Tableau
+        - Statistical packages
+            - SPSS (used in social science / business)
+            - JASP (free, open source, easy to use)
+- Data
+    - Special formats for web data.
+        - HTML
+        - XML
+        - JSON
+- Code
+    - Languages that give you full control.
+        - R
+        - Python
+        - SQL
+        - C, C++, & Java (back-end)
+        - Bash (most common command line interface)
+        - Regex (Regular expressions)
+
+**Math**
+- The math behind DS methods.
+- Why do we need math?
+    - Need to know which procedures to use and why?
+    - Need to know when things don't work right.
+    - Some math is easier & quicker by hand than computer.
+- What kind of math do we need?
+    - Algebra
+        - Elementary Algebra
+        - Linear (matrix) algebra
+        - Systems of linear equations
+    - More Math
+        - Calculus
+        - Big O (order of a function / how fast it works)
+        - Probability
+        - Baye's theorem (way of getting posterior probability)
+
+**Stats**
+- Statistical methods to summarize & analyze data.
+- How to find order in chaos.
+    - Explore Data
+        - Exploratory graphics
+        - Exploratory statistics
+        - Descriptive statistics
+    - Inference
+        - From samples to populations
+        - Hypothesis testing
+        - Estimations (or confidence intervals)
+    - Details
+        - Feature selection
+            - picking variables that should be included
+        - Problems can arise
+            - will address later
+        - Validation
+            - is statistical model accurate
+        - Estimators
+            - choice of estimators you use
+            - how you get the coefficients or combinations in your model
+        - Fit
+            - ways of assessing how well your model fits the data
+
+**Machine Learning**
+- Methods for finding clusters, predicting categories & scores.
+- Dimension reduction
+    - narrow down large, scattered data det to most essential parts
+- Clustering
+    - find clusters within data using:
+        - logistic regession
+        - kNN (k-nearest neighbors)
+        - Naive Bayes (for classification)
+        - Decision trees
+        - SVM (support vector machines)
+        - Artificial neural nets
+        - k-Means
+- Anomalies
+- Predictions
+    - linear regression
+    - poisson regression (used for modeling count or frequency data)
+    - ensemble models (create several models, take predictions from each and combine into a more reliable prediction)
+___
+#### **Comminicating**
+
+**Interpretability**
+- Data driven story
+- Solve for value
+    - Analysis x Story = Value
+    - Max Story = Max Value
 
 ___
 ### **Resources**
