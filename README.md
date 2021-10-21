@@ -369,6 +369,68 @@ ___
     - Analysis x Story = Value
     - Max Story = Max Value
 
+**Goals**
+- Analysis is goal-driven
+- Story should match goals
+- Answer questions clearly & unambiguously
+
+**Psychological Abstractions**
+- Egocentrism
+    - you think people see, and know and understand what you do
+- False consensus
+    - the idea that "well, everybody knows that"
+- Anchoring
+    - when you give someone an initial impression, they use that as an anchor
+- Clarity at each step
+
+**Answers**
+- State the question
+- Give answer
+- Qualify as needed
+- Go in order
+- Discuss process sparingly
+
+ **Presentation**
+ - Less is more
+ - More charts, less text
+ - Simplify charts
+ - Avoid tables
+
+**Simpsons Paradox**
+
+\
+<img src="https://www.kdnuggets.com/wp-content/uploads/Fig1-Walaa-simpsons-paradox.jpg" alt="Simpsons Paradox" width="" height="250">
+
+\
+**Study of gender bias among graduate school admissions at Berkeley (1973)**
+- **Admittance by Gender:**
+    - Appearance of gender bias leads to a lawsuit and further investigation.
+- **Admittance by Department:**
+    - Found possible bias in favor of women.
+    - Women applied to more selective programs.
+
+**Other Questions you could ask:**
+- Why do the programs vary by class size?
+- Why do acceptance rates differ?
+- Why do men and women apply to different programs?
+    - Admissions criteria.
+    - Promotional strategies.
+    - Prior education.
+    - Funding levels.
+
+\
+**Actionable Insights**
+- Point the way
+    - Why was the project conducted?
+    - Goal is usually to direct action.
+    - Analysis should guide action.
+- Next Steps
+    - Give next steps.
+    - Justify with data.
+    - Be specific.
+    - Doable by client.
+    - Build on each step.
+
 ___
 ### **Resources**
 1. [Learn Data Science Tutorial](https://www.youtube.com/watch?v=ua-CiDNNj30&list=PLziKjNNc0urKZYycv59uk3TLlOSiTcr1p&index=1)
