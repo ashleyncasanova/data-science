@@ -360,6 +360,14 @@ ___
     - linear regression
     - poisson regression (used for modeling count or frequency data)
     - ensemble models (create several models, take predictions from each and combine into a more reliable prediction)
+___
+#### **Comminicating**
+
+**Interpretability**
+- Data driven story
+- Solve for value
+    - Analysis x Story = Value
+    - Max Story = Max Value
 
 ___
 ### **Resources**
