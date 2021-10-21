@@ -467,10 +467,71 @@ ___
     - Interaction.
     - Animation.
 
+\
+**Reproducible Research**
+- DS projects are not usually "one and done"".
+    - They are incremental, cumulative & adaptive.
+- Show your work.
+    - Revising.
+        - May need to revise at a later date.
+    - Borrowing.
+        - May want to borrow something from previous studies.
+    - Handing off.
+        - Other people will likely need to use / understand what you did.
+    - Accountability.
+        - Important for scientific and academic research.
+        - Show that you did things in a responsible way and that conclusions are justified.
+        - For clients, funding agencies, regulators, academic reviewers, etc.
+- Open Data Science
+    - [Open Data Science Conference](https://odsc.com/california/?gclid=CjwKCAjw_L6LBhBbEiwA4c46ukPMAAUXkxplQt8jdCru0UBKaNQe-_mZNBNSww1DcDiI894Wsv_G6RoCJakQAvD_BwE)
+    - [Open Science Framework](https://osf.io/)
+        - Way of sharing data and research with an annotation of how you got there.
+    - [Open Practice Badges](https://www.psychologicalscience.org/publications/badges)
+        - Association for Psychological Sciences (APS)
+        - Incentive program that encourages data sharing.
+- Archives.
 ___
 ### **Resources**
 1. [Learn Data Science Tutorial](https://www.youtube.com/watch?v=ua-CiDNNj30&list=PLziKjNNc0urKZYycv59uk3TLlOSiTcr1p&index=1)
 1. [The Data Science Venn Diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
