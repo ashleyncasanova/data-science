@@ -512,7 +512,23 @@ ___
             - If working with R.
             - Uing RStudio IDE.
             - Can upload doc into RPubs, making accessible to anyone
-
+- Next Steps
+    - R & Python
+    - Data Visualization
+    - Statistics & Math
+    - Machine Learning
+    - Data Sourcing
+    - Data Science Community
+        - DS Conferences
+            - [O'Reilly Strata](https://www.oreilly.com/conferences/strata-data-ai.html)
+            - [Predictive analytics world](https://www.predictiveanalyticsworld.com/)
+            - Tapestry
+            - Extract (put on by import.io)
+    - work with data
+        - Kaggle.com (free data sets / data competitions)
+        - DataKind.org (premier organization for data science as a humanitarian service)
+        - Do Good Data (annual event)
+        - datalab.cc sponcers local events for nonprofit work
 ___
 ### **Resources**
 1. [Learn Data Science Tutorial](https://www.youtube.com/watch?v=ua-CiDNNj30&list=PLziKjNNc0urKZYycv59uk3TLlOSiTcr1p&index=1)
