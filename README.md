@@ -490,6 +490,29 @@ ___
         - Association for Psychological Sciences (APS)
         - Incentive program that encourages data sharing.
 - Archives
+    - All data sets, both raw & processed.
+    - All code to process and analyze data.
+        - Simple for R or Python.
+        - For SPSS, you need to save the syntax files.
+    - Comment liberally & explain process.
+        - Explain why you did it the way you did.
+        - Include choices, consequences, backtracking.
+    - Future proofing your work.
+        - Store data in non-proprietary formats, like CSV.
+            - Anything can read a CSV file.
+            - CSV stands for comma separated values file.
+            - Someone may have trouble trying to open data stored in the proprietary SPSS.sav format.
+        - Place files in a secure, accessible location, like GitHub.
+        - Dependency management with packrat for R or virtualenv for Python.
+            - To make sure there are alwayse versions that work, because sometimes things get updated and break.
+    - Explain yourself.
+        - Jupyter Notebook
+            - Interactive notebook
+        - R Markdown
+            - If working with R.
+            - Uing RStudio IDE.
+            - Can upload doc into RPubs, making accessible to anyone
+
 ___
 ### **Resources**
 1. [Learn Data Science Tutorial](https://www.youtube.com/watch?v=ua-CiDNNj30&list=PLziKjNNc0urKZYycv59uk3TLlOSiTcr1p&index=1)
