@@ -128,6 +128,10 @@ ___
 #### **Tools for Data Science**
 
 \
+<img src="tools_1.png" alt="tools_1" width="" height="250">
+<img src="tools_2.png" alt="tools_2" width="" height="250">
+
+\
 Top coding and data science tools according to IEEE (2015)
 
 |#|Coding|Data Science|
