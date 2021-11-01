@@ -9,6 +9,7 @@ ___
     - [Why Choose Data Science?](#why-choose-data-science)
     - [The Data Science Venn Diagram](the-data-science-venn-diagram)
     - [The Data Science Pathway](#the-data-science-pathway)
+    - [Tools for Data Science](#tools-for-data-science)
     - [Roles in Data Science](#roles-in-data-science)
     - [Big Data](#big-data)
     - [Business Intelligence](#business-intelligence)
@@ -123,6 +124,28 @@ ___
     - Deploy Model
     - Revisit Model
     - Archive Assets
+___
+#### **Tools for Data Science**
+
+\
+Top coding and data science tools according to IEEE (2015)
+
+|#|Coding|Data Science|
+|---|---|---|
+|1|Java|R|
+|2|C|RapidMiner|
+|3|C++|SQL|
+|4|Python|Python|
+|5|C#|Excel|
+|6|R|KNIME|
+|7|PHP|Hadoop|
+|8|JavaScript|Tableau|
+|9|Ruby|SAS|
+|10|Matlab|Spark|
+|11|SQL||
+|12|Shell||
+||||
+
 ___
 #### **Roles in Data Science**
 
